@@ -1,0 +1,8 @@
+C:\Users\jakim\source\repos\FindUrMeds\FindUrMeds\obj\Debug\FindUrMeds.csproj.AssemblyReference.cache
+C:\Users\jakim\source\repos\FindUrMeds\FindUrMeds\obj\Debug\FindUrMeds.csproj.SuggestedBindingRedirects.cache
+C:\Users\jakim\source\repos\FindUrMeds\FindUrMeds\obj\Debug\FindUrMeds.csproj.CoreCompileInputs.cache
+C:\Users\jakim\source\repos\FindUrMeds\FindUrMeds\bin\Debug\FindUrMeds.exe.config
+C:\Users\jakim\source\repos\FindUrMeds\FindUrMeds\bin\Debug\FindUrMeds.exe
+C:\Users\jakim\source\repos\FindUrMeds\FindUrMeds\bin\Debug\FindUrMeds.pdb
+C:\Users\jakim\source\repos\FindUrMeds\FindUrMeds\obj\Debug\FindUrMeds.exe
+C:\Users\jakim\source\repos\FindUrMeds\FindUrMeds\obj\Debug\FindUrMeds.pdb
